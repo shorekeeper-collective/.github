@@ -1,11 +1,11 @@
 
 <p align="center">
   <img src="shorekeeper.webp" alt="Shorekeeper">
-</p>
+</p>   
 
-<p align="center">
+<h1 align="center">
   <span style="font-size: 32px; font-weight: bold; margin-left: 15px; vertical-align: middle;">The Shorekeeper Collective</span>
-</p>
+</h1>
 
 
 <p align="center" style="font-size: 12px;"><i>"The Shorekeeper"... This name suits me well enough. It aligns with my purpose and drive: they only exist because of you.</i></p>
