@@ -16,7 +16,7 @@ We build tools, applications and host open-source software on our infrastructure
 <h2 align="center">Projects</h2>   
 
 - Memokeeper, a self-hostable blogging platform. Simple, elegant and powerful.   
-- Immich instance for cosplay photographers.   
+- Inspectra, a managed photo hosting platform   
 - *and more to come...*
 
 <h2 align="center">Community</h2>   
